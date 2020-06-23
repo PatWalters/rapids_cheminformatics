@@ -1,2 +1,2 @@
 # rapids
-Some demos using Nvidia RAPIDS for Cheminformatics
+Some demos using NVIDIA RAPIDS for Cheminformatics
